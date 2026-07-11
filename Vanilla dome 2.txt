@@ -1,0 +1,60 @@
+restart lw lw #99346 #99304 #99347 #99324
+combined --
+
+#99346
+a r+ y+ a a w a a w a w a w a a a r- a w a w a a a a a a a u a u a u w r+ lw lw r lw start w start lw l+ b w b w b w b w start w start r+ b b b b b l start w start b b b w b start w start r+ w b w b b b lw b b b lw start 
+#99304
+w start lw lw w start w u+ start b l b b l b b l b start w start l b l b b l b b l start w start l b l b b l b l b b start w start b r b b r b b r start w start r b b r b b r b b start w l+ start b b b start l
+#99347
+w start lw lw start #top of the vine 
+#99324
+w start r+ b b w start
+
+--not great but works--
+
+start a a a start
+start a a start 
+-- i frames -- 
+start b b b start
+start b b b b b b b b b b start
+-- in the water again --
+
+
+
+
+
+reusable?--
+
+swim straight @selloa 
+start r+ b w b w b w b w b w b w b w b start
+
+
+
+
+---- v 0.0.2 work -- 
+
+a r+ y+ a a w a a w a w a w a a a r- a w a w a a a a a a a u a u a u w r+ lw lw r lw start w start lw l+ b w b w b w b w start w start r+ b b b b b l start w start b b b w b start w start r+ w b w b b b lw b b b lw start
+
+w start lw lw w start w u+ start b l b b l b b l b start w start l b l b b l b b l start w start l b l b b l b l b b start w start b r b b r b b r start w start r b b r b b r b b start w l+ start b b b start l
+
+w start lw lw start w start r+ b b w start
+
+
+---- CHECKPOINT----
+
+#99427 past football guy
+#99439 about to land down slop
+#99441 almost p block
+#16098 after p block 
+#99442 about to get footballed
+
+
+#99427 #99439 #99441 #16098 #99442 #99443 #16536 #13416 #99444 #415 #11151 #98707 #99445 #49166 #15514 #44713 #415 #415 #99437 #99446 #415 #19590 #99447 BREAK #99448 #13642 #49166 #49166 #16499 #99449 #99450 #
+
+
+
+
+
+-----Round 2
+
+#99387 #99474 #99502 
